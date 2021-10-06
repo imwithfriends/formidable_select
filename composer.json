@@ -1,0 +1,7 @@
+{
+  "name"       : "imwithfriends/formidable_select",
+  "type"       : "wordpress-plugin",
+  "require"    : {
+    "composer/installers": "~1.0"
+  }
+}
