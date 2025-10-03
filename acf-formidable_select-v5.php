@@ -10,6 +10,11 @@ if( !class_exists('acf_field_formidable_select') ) :
 
 class acf_field_formidable_select extends acf_field {
 
+	/**
+	 * @var array Plugin settings
+	 */
+	public $settings;
+
 
 	/*
 	*  __construct
